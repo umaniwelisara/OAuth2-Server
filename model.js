@@ -13,7 +13,7 @@ var config = {
 	tokens: [],
 	users: [{
 		id: '123',
-		username: 'umani',
+		username: 'test',
 		password: 'test'
 	}]
 };
